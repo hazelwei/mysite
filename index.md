@@ -4,15 +4,16 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Hazel Wei
 
-A Nintendo Character
-
+A Baker
 - - -
 
 ### about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+- Adept storyteller who innovates the reporting process with social media and technology, and thrives within the high-tense news production environment with serious stander of news ethic.
+- Experienced editor of social media of TEDxTaipei Fanpage which engage with 220 thousand readers.
+- Multiple understanding on user-center design, reader engagement and interactive news production.
 
 ### Links
 
