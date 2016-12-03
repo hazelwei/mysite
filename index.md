@@ -7,6 +7,7 @@ layout: default
 # Hazel Wei
 
 A Baker
+
 - - -
 
 ### about
